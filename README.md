@@ -1,2 +1,2 @@
 # simple-order-management
-This Rest Api model product order using SpringBoot and Spring Hateoas for easy navigation link.
+This is version 1.0 of product order management Rest Api model, using SpringBoot and Spring Hateoas for easy navigation link.
